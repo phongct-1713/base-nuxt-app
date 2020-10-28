@@ -1,0 +1,25 @@
+// ======================================================
+// Abstracts :: Override Variables
+// ======================================================
+
+// Override Datepicker variables
+// https://github.com/mengxiong10/vue2-datepicker/blob/master/src/style/var.scss
+$default-color: $gray-100;
+$primary-color: $thema-100;
+
+$today-color: $thema-110;
+
+$popup-z-index: 2001 !default;
+
+$input-border-color: $gray-20;
+$input-color: $gray-100;
+$input-hover-border-color: $secondary-100;
+
+$calendar-active-color: $white;
+$calendar-active-background-color: $thema-110;
+
+$calendar-hover-color: $white;
+$calendar-hover-background-color: $thema-100;
+
+$calendar-in-range-color: $white;
+$calendar-in-range-background-color: $thema-80;

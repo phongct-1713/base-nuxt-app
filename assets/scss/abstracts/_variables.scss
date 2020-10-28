@@ -1,0 +1,159 @@
+// ======================================================
+// Abstracts :: Variables
+// ======================================================
+
+// Color
+$white: #fff;
+$white-10: #f1f1f1;
+$black: #000;
+
+$thema-10: #fff5e7;
+$thema-20: #ffebd1;
+$thema-30: #ffe189;
+$thema-40: #ffd8a3;
+$thema-50: #ffce8b;
+$thema-60: #ffc475;
+$thema-70: #ffba5d;
+$thema-80: #ffb146;
+$thema-90: #ffa72f;
+$thema-100: #ff9d18;
+$thema-110: #fa6400;
+
+$secondary-10: #ecf9f7;
+$secondary-20: #d9f3ef;
+$secondary-30: #c6ede7;
+$secondary-40: #b3e7e0;
+$secondary-50: #a0e1d7;
+$secondary-60: #8edbd0;
+$secondary-70: #7ad5c8;
+$secondary-80: #68cfc1;
+$secondary-90: #54c9b8;
+$secondary-100: #42c3b1;
+
+$gray-5: #f5f5f4;
+$gray-10: #ebeaea;
+$gray-20: #d7d7d5;
+$gray-30: #c3c2c0;
+$gray-40: #b0aeab;
+$gray-50: #9c9996;
+$gray-60: #888682;
+$gray-70: #74716c;
+$gray-80: #615d58;
+$gray-90: #4c4942;
+$gray-100: #39352e;
+
+$error-10: #fbe8e3;
+$error-20: #f6c6ba;
+$error-30: #e44119;
+$error-40: #cc2f08;
+
+$warn-10: #fcf6e3;
+$warn-20: #f8e8b9;
+$warn-30: #e9b517;
+$warn-40: #c89a0c;
+
+$done-10: #e3f4e7;
+$done-20: #bae5c3;
+$done-30: #19aa38;
+$done-40: #0b9027;
+
+$info-10: #ede6f3;
+$info-20: #d4c1e3;
+$info-30: #7032a2;
+$info-40: #531a81;
+
+$peach-10: #fde8e8;
+$peach-20: #f78a8a;
+$peach-30: #d46161;
+
+$peacock-10: #d5e8f0;
+$peacock-20: #2e8cb4;
+$peacock-30: #1f7093;
+
+$sage-10: #d9f3ef;
+$sage-20: #42c3b1;
+$sage-30: #299989;
+
+$blue-10: #2d78ac;
+
+// Paths
+$path-image: '../images';
+$path-fonts: '../fonts';
+
+// Font-family
+$font-family-base: 'Noto Sans JP', sans-serif;
+
+// Icons font
+$icomoon-font-family: 'cocoicon' !default;
+$icomoon-font-path: '../fonts' !default;
+
+// Password font
+$password-font-family: 'fontello' !default;
+
+$icon--user: '\e920';
+$icon--question-outline: '\e91f';
+$icon--mail: '\e91e';
+$icon--search: '\e91d';
+$icon--arrow-up: '\e915';
+$icon--arrow-down: '\e916';
+$icon--arrow-left: '\e917';
+$icon--arrow-right: '\e918';
+$icon--download: '\e919';
+$icon--left: '\e903';
+$icon--right: '\e905';
+$icon--up: '\e906';
+$icon--down: '\e907';
+$icon--dictionary: '\e91a';
+$icon--trophy: '\e910';
+$icon--records: '\e911';
+$icon--hearth-outline: '\e912';
+$icon--hearth: '\e90d';
+$icon--question: '\e91c';
+$icon--circle-left: '\e91b';
+$icon--circle-down: '\e913';
+$icon--circle-up: '\e914';
+$icon--circle-right: '\e902';
+$icon--close: '\e904';
+$icon--home: '\e908';
+$icon--import: '\e909';
+$icon--add: '\e90a';
+$icon--chart: '\e90b';
+$icon--calendar: '\e90c';
+$icon--lock: '\e90e';
+$icon--person: '\e90f';
+$icon--face-2: '\e901';
+$icon--face-1: '\e900';
+
+// Font-size
+$font-size-xsmall : 10px;
+$font-size-small  : 12px;
+$font-size-base   : 14px;
+$font-size-medium : 16px;
+$font-size-big    : 18px;
+$font-size-large  : 20px;
+$font-size-xlarge : 24px;
+$font-size-xxlarge : 36px;
+
+// Font-weight
+$font-weight-extralight: 300;
+$font-weight-light: 400;
+$font-weight-base: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+
+// Borders
+$border-radius-small: 2px;
+$border-radius-base: 4px;
+$border-radius-medium: 8px;
+$border-radius-large: 16px;
+$border-radius-xlarge: 24px;
+$border-radius-hack: 999px;
+
+// easing
+$ease: cubic-bezier(.61, 1, .88, 1);
+$ease2: cubic-bezier(.16, 1, .3, 1);
+$ease3: cubic-bezier(.68, -.6, .32, 1.6);
+
+// Box shadow
+$shadow: 0 1px 6px 0 rgba($gray-100, .15);
+$shadow-2: 2px 2px 4px 0 rgba($black, .3);
